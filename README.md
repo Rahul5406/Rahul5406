@@ -149,7 +149,7 @@ AI-powered academic writing assistant that improves clarity while preserving mea
 ✔ GPT Integration
 
 ✔ Citation Intelligence
-https://github-readme-stats.vercel.app/api?username=Rahul5406&show_icons=true&theme=tokyonight
+
 ---
 
 # 📈 GitHub Statistics
