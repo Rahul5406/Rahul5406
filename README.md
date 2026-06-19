@@ -4,9 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Developer;Building+Intelligent+Software;Turning+Ideas+Into+Reality" />
 
 </p>
-<p align="center">
-  <img src="./Rahul banner.png" alt="Rahul Prakash Banner" width="100%" />
-</p>
+
 
 <h1 align="center">
 Hi 👋 I'm Rahul Prakash
