@@ -5,7 +5,7 @@
 
 </p>
 <p align="center">
-  <img src="YOUR_BANNER_URL" width="100%" />
+  <img src="./Rahul banner.png" alt="Rahul Prakash Banner" width="100%" />
 </p>
 
 <h1 align="center">
