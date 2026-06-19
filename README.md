@@ -189,7 +189,6 @@ AI-powered academic writing assistant that improves clarity while preserving mea
 https://www.linkedin.com/in/rahul-prakash-307601292
 
 💻 Portfolio
-
-Coming Soon...
+https://rahul-portfolio-17.vercel.app/
 
 ⭐ Thanks for visiting my profile.
