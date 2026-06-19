@@ -40,6 +40,12 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul5406/Rahul5406/output/github-snake-dark.svg" />
+</p>
+
 
 ## 💻 Tech Stack
 
