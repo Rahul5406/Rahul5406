@@ -164,11 +164,8 @@ AI-powered academic writing assistant that improves clarity while preserving mea
 
 📧 rahulprakashlatha@gmail.com
 
-💼 LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/rahul-prakash-307601292
 
-https://www.linkedin.com/in/rahul-prakash-307601292
-
-💻 Portfolio
-https://rahul-portfolio-17.vercel.app/
+💻 Portfolio : https://rahul-portfolio-17.vercel.app/
 
 ⭐ Thanks for visiting my profile.
