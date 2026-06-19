@@ -73,6 +73,7 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </p>
+---
 # 🚀 Featured Projects
 
 ## ✈ Airline Delay Prediction
