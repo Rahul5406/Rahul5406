@@ -65,61 +65,15 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 
 <br/>
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-## ✈ Airline Delay Prediction
-
-Machine Learning model achieving 82% prediction accuracy using airline operational data.
-
----
-
-## 🚪 SSEC Outing Management System
-
-Enterprise-level gate automation platform integrating Firebase, React and IVR-based parent approval.
-
-✔ Student Management
-
-✔ Staff Management
-
-✔ Exotel IVR
-
-✔ Firebase Cloud Functions
-
-✔ Realtime Dashboard
-
----
-
-## 📱 SSEC Pass Portal
-
-Google Play Store published Android application for digital outing pass management.
-
-✔ Student Portal
-
-✔ HOD Dashboard
-
-✔ Warden Dashboard
-
-✔ Approval Workflow
-
-✔ Firebase Realtime Database
-
----
-
-## 📝 ClariGuard
-
-AI-powered academic writing assistant that improves clarity while preserving meaning and citations.
-
-✔ FastAPI
-
-✔ React
-
-✔ Sentence Transformers
-
-✔ GPT Integration
-
-✔ Citation Intelligence
-
----
+| Project | Description | Tags |
+|---|---|---|
+| 🔒 **Gate In–Gate Out** | Real-time facial recognition system for automated attendance & secure gate monitoring. Play Store–published app with IVR + SMS alerts & multi-level approvals. | `CV` `Face Recog` `Mobile` |
+| ✈️ **Airline Delay Prediction** | Random Forest & XGBoost models on real flight data — 82% accuracy. Full ML pipeline with precision, recall & F1-score evaluation. | `ML` `XGBoost` `RF` |
+| 🖋️ **ClariGuard** | AI writing assistant that transforms raw academic drafts into structured, humanized content using NLP & prompt engineering. | `NLP` `LLM` `Prompt Eng` |
+| ⚙️ **Shot Sense** | Real-time dashboard streaming live PLC data from a shot blasting machine — visualizes operational metrics continuously. | `IoT` `PLC` `Dashboard` |
+| 🎪 **Smart Event Management** | Full-scale AI platform for college event handling — registrations, scheduling, approvals + AI-based poster generation from instructions. | `Full Stack` `AI Gen` |
 
 # 📈 GitHub Statistics
 
