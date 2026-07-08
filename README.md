@@ -87,28 +87,31 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 
 ---
 
-# 🔥 Current Focus
+## 🔥 Current Focus
 
-✔ AI Agents
+```text
+🤖  AI Agents               → building autonomous, tool-using LLM workflows
+🧠  Machine Learning         → classical ML pipelines (RF, XGBoost, evaluation)
+🏗️  Full-Stack Systems       → React / FastAPI / Firebase, end-to-end shipping
+🔗  LLM Applications         → RAG pipelines, prompt engineering, LangChain
+👁️  Computer Vision          → face recognition, real-time detection
+📐  Scalable Architecture    → designing systems that survive real users
+```
 
-✔ Machine Learning
+<br/>
 
-✔ Full Stack Systems
+## 🌐 Connect With Me
 
-✔ LLM Applications
+<div align="center">
 
-✔ Computer Vision
+[![Email](https://img.shields.io/badge/rahulprakashlatha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulprakashlatha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Rahul_Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-prakash-307601292)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rahul-portfolio-17.vercel.app/)
 
-✔ Scalable Software Architecture
+</div>
 
----
+<div align="center">
 
-# 🌎 Connect With Me
+⭐ **Thanks for stopping by — always open to interesting conversations about AI, systems, and shipping real products.**
 
-📧 rahulprakashlatha@gmail.com
-
-💼 LinkedIn : https://www.linkedin.com/in/rahul-prakash-307601292
-
-💻 Portfolio : https://rahul-portfolio-17.vercel.app/
-
-⭐ Thanks for visiting my profile.
+</div>
