@@ -65,15 +65,18 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 
 <br/>
 
-## 🚀 Projects
 
+## 🚀 Projects
+ 
 | Project | Description | Tags |
 |---|---|---|
-| 🔒 **Gate In–Gate Out** | Real-time facial recognition system for automated attendance & secure gate monitoring. Play Store–published app with IVR + SMS alerts & multi-level approvals. | `CV` `Face Recog` `Mobile` |
-| ✈️ **Airline Delay Prediction** | Random Forest & XGBoost models on real flight data — 82% accuracy. Full ML pipeline with precision, recall & F1-score evaluation. | `ML` `XGBoost` `RF` |
-| 🖋️ **ClariGuard** | AI writing assistant that transforms raw academic drafts into structured, humanized content using NLP & prompt engineering. | `NLP` `LLM` `Prompt Eng` |
-| ⚙️ **Shot Sense** | Real-time dashboard streaming live PLC data from a shot blasting machine — visualizes operational metrics continuously. | `IoT` `PLC` `Dashboard` |
-| 🎪 **Smart Event Management** | Full-scale AI platform for college event handling — registrations, scheduling, approvals + AI-based poster generation from instructions. | `Full Stack` `AI Gen` |
+| 🔒 **[Gate In–Gate Out](https://github.com/Rahul5406/REPO_LINK)** — *Live on Play Store* | Real-time facial recognition system for automated attendance & secure gate monitoring, with IVR + SMS alerts and multi-level approvals. | `CV` `Face Recog` `Mobile` |
+| ✈️ **[Airline Delay Prediction](https://github.com/Rahul5406/REPO_LINK)** | Random Forest & XGBoost models on real flight data — 82% accuracy, with full precision/recall/F1 evaluation. | `ML` `XGBoost` `RF` |
+| 🖋️ **[ClariGuard](https://github.com/Rahul5406/REPO_LINK)** | AI writing assistant that restructures raw academic drafts into polished, humanized content using NLP & prompt engineering. | `NLP` `LLM` `Prompt Eng` |
+| ⚙️ **[Shot Sense](https://github.com/Rahul5406/REPO_LINK)** | Real-time dashboard streaming live PLC data from a shot blasting machine for continuous operational monitoring. | `IoT` `PLC` `Dashboard` |
+| 🎪 **[Smart Event Management](https://github.com/Rahul5406/REPO_LINK)** | Full-stack AI platform for college event handling — registrations, scheduling, approvals, plus AI-generated posters from text instructions. | `Full Stack` `AI Gen` |
+ 
+<br/>
 
 ## 📊 GitHub Statistics
 
