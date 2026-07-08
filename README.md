@@ -1,26 +1,20 @@
-<!-- Banner -->
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Developer;Building+Intelligent+Software;Turning+Ideas+Into+Reality" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Rahul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-</p>
+<a href="https://rahul-portfolio-17.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+</div>
 
-<h1 align="center">
-Hi 👋 I'm Rahul Prakash
-</h1>
-
-<h3 align="center">
-AI/ML Developer • Full Stack Developer • Building Intelligent Software
-</h3>
-
-<p align="center">
-
-Currently building AI-powered applications, modern web systems, and automation platforms.
-
-</p>
-
----
+<br/>
 
 # 🚀 About Me
 
