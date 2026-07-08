@@ -1,105 +1,176 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Rahul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Full+Stack+Developer;Building+Intelligent+Software;Turning+Ideas+Into+Reality" />
 
-<a href="https://rahul-portfolio-17.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</p>
 
-</div>
 
-<br/>
+<h1 align="center">
+Hi 👋 I'm Rahul Prakash
+</h1>
 
-## About Me
+<h3 align="center">
+AI/ML Developer • Full Stack Developer • Building Intelligent Software
+</h3>
 
-I'm a final-stretch AI/ML student building production-style systems, not toy notebooks. My recent work spans a RAG-based code review pipeline, a real-time face recognition attendance system, and a Play Store–published campus pass management app used by real students. I care about systems that actually ship — not just models that work in a demo.
+<p align="center">
 
-Currently:
-- 🔬 Researching **Temporal Hallucination Decay in LLMs** — a framework and metric (THS) measuring how hallucination rates shift over time, targeting IEEE/Springer publication
-- 🛠️ Building an **AI Code Review System** (RAG + LangChain + FastAPI + React)
-- 🎯 Preparing for AI Engineer / Full-Stack roles at product companies
+Currently building AI-powered applications, modern web systems, and automation platforms.
 
-<br/>
+</p>
 
-## Tech Stack
+---
 
-<div align="center">
+# 🚀 About Me
 
-**Languages & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+🎓 AI & Machine Learning Undergraduate
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-333333?style=flat-square" />
+💡 Passionate about solving real-world problems using
 
-**Backend & Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,tailwind,vite" />
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- NLP
+- Full Stack Development
 
-**Data & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,firebase,git,github,arduino" />
+I enjoy transforming ideas into production-ready applications that combine beautiful interfaces with intelligent backend systems.
 
-</div>
+---
 
-<br/>
+## 🐍 Contribution Snake
 
-## Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahul5406/Rahul5406/output/github-snake-dark.svg" />
+</p>
 
-### 🔹 [AI Code Review System](https://github.com/Rahul5406/REPO_LINK)
-RAG-based code review assistant — retrieves relevant context from a codebase and generates targeted review comments.
-`FastAPI` `LangChain` `React` `RAG` `Anthropic API`
-- Custom retrieval pipeline over codebase embeddings, not a naive full-context prompt
-- FastAPI backend serving a React review UI
-- [Live demo →](#) *(add link once deployed)*
 
-### 🔹 [SSEC Pass Portal](https://github.com/Rahul5406/REPO_LINK) — Live on Google Play Store
-Campus outing/home-visit approval system used by students, wardens, and HODs at SSEC.
-`React` `Firebase` `Capacitor` `Role-Based Access`
-- Real-time approval workflow across 3 user roles (Student / Warden / HOD)
-- Shipped as an Android app with forced update handling
-- [Play Store listing →](#)
+## 💻 Tech Stack
 
-### 🔹 [AI Face Recognition Attendance System](https://github.com/Rahul5406/REPO_LINK)
-Real-time attendance system using facial embeddings instead of manual roll calls.
-`FaceNet` `React` `Firebase`
-- Real-time recognition pipeline with a live dashboard and attendance logs
+<p align="center">
 
-### 🔹 [SSEC Gate-In Gate-Out Management System](https://github.com/Rahul5406/REPO_LINK)
-Campus entry/exit tracking system with automated parent notifications.
-`React` `TypeScript` `Firebase` `Exotel API`
-- IVR-based parent permission automation via Cloud Functions + Exotel
-- Real-time department-level monitoring dashboards
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br/>
+<br><br>
 
-## Research
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-**Temporal Hallucination Decay in Large Language Models** — co-authored paper proposing the THD framework and THS metric to quantify how LLM hallucination rates change over time bands. Currently under submission (IEEE/Springer track).
+<br><br>
 
-<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-## GitHub Stats
+<br><br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul5406&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-</div>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<br/>
+</p>
 
-## Let's Connect
+---
 
-<div align="center">
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://rahul-portfolio-17.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-1e3a8a?style=flat-square&logo=vercel&logoColor=white"/></a>
-</div>
+# 🚀 Featured Projects
+
+## ✈ Airline Delay Prediction
+
+Machine Learning model achieving 82% prediction accuracy using airline operational data.
+
+---
+
+## 🚪 SSEC Outing Management System
+
+Enterprise-level gate automation platform integrating Firebase, React and IVR-based parent approval.
+
+✔ Student Management
+
+✔ Staff Management
+
+✔ Exotel IVR
+
+✔ Firebase Cloud Functions
+
+✔ Realtime Dashboard
+
+---
+
+## 📱 SSEC Pass Portal
+
+Google Play Store published Android application for digital outing pass management.
+
+✔ Student Portal
+
+✔ HOD Dashboard
+
+✔ Warden Dashboard
+
+✔ Approval Workflow
+
+✔ Firebase Realtime Database
+
+---
+
+## 📝 ClariGuard
+
+AI-powered academic writing assistant that improves clarity while preserving meaning and citations.
+
+✔ FastAPI
+
+✔ React
+
+✔ Sentence Transformers
+
+✔ GPT Integration
+
+✔ Citation Intelligence
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul5406&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5406&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Current Focus
+
+✔ AI Agents
+
+✔ Machine Learning
+
+✔ Full Stack Systems
+
+✔ LLM Applications
+
+✔ Computer Vision
+
+✔ Scalable Software Architecture
+
+---
+
+# 🌎 Connect With Me
+
+📧 rahulprakashlatha@gmail.com
+
+💼 LinkedIn : https://www.linkedin.com/in/rahul-prakash-307601292
+
+💻 Portfolio : https://rahul-portfolio-17.vercel.app/
+
+⭐ Thanks for visiting my profile.
