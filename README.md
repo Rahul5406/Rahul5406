@@ -16,21 +16,16 @@
 
 <br/>
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 AI & Machine Learning Undergraduate
+I'm an AI & Machine Learning undergraduate and Full-Stack Developer passionate about building intelligent software that solves real-world problems. I enjoy transforming ideas into scalable applications by combining AI, modern web technologies, and cloud platforms.
 
-💡 Passionate about solving real-world problems using
+My experience includes developing AI-powered systems, real-time management platforms, mobile applications, and automation solutions using React, TypeScript, Python, FastAPI, Firebase, and Computer Vision.
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- NLP
-- Full Stack Development
+I continuously explore Machine Learning, NLP, Computer Vision, and Large Language Models while focusing on writing clean, scalable, and production-ready code.
 
-I enjoy transforming ideas into production-ready applications that combine beautiful interfaces with intelligent backend systems.
+💡 *I believe great software isn't just about working—it should be intelligent, efficient, and create meaningful impact.*
 
----
 
 ## 🐍 Contribution Snake
 
