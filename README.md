@@ -75,17 +75,13 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 | ⚙️ **Shot Sense** | Real-time dashboard streaming live PLC data from a shot blasting machine — visualizes operational metrics continuously. | `IoT` `PLC` `Dashboard` |
 | 🎪 **Smart Event Management** | Full-scale AI platform for college event handling — registrations, scheduling, approvals + AI-based poster generation from instructions. | `Full Stack` `AI Gen` |
 
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul5406&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5406&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahul5406&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul5406&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🔥 Current Focus
 
