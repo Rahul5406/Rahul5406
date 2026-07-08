@@ -64,6 +64,7 @@ I enjoy transforming ideas into production-ready applications that combine beaut
 </div>
 
 <br/>
+
 # 🚀 Featured Projects
 
 ## ✈ Airline Delay Prediction
