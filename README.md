@@ -44,7 +44,7 @@ I continuously explore Machine Learning, NLP, Computer Vision, and Large Languag
 
 **AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG_Pipelines-333333?style=flat-square" />
 
